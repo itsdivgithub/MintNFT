@@ -13,7 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-##Things we have used for Minting an NFT!
+## Things we have used for Minting an NFT!
 1.ERC721
 2.Openzeppelin
 3.IPFS
